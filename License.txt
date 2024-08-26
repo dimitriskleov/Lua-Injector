@@ -1,0 +1,24 @@
+==================================================
+          BLUE WAVE LUA INJECTOR LICENSE
+==================================================
+
+1. PERMITTED USE:
+   - You are allowed to use this program for personal 
+     or non-commercial purposes.
+
+2. PROHIBITED ACTIONS:
+   - You may NOT modify, distribute, or re-upload 
+     this program without explicit permission from the author.
+   - You may NOT use this program for commercial purposes 
+     or sell it.
+
+3. ATTRIBUTION:
+   - You must keep this license and credit intact in any 
+     copies or installations of this program.
+
+4. NO WARRANTY:
+   - This program is provided "AS IS," without any warranties. 
+     The author is not liable for any damages or issues caused 
+     by using this program.
+
+====================================================
